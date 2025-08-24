@@ -1,1 +1,1 @@
-Run: play_gui.py
+Run: gui_play.py
